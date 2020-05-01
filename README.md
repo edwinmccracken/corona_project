@@ -53,7 +53,8 @@ Project Proposal
   * Create joined_data.sql file of joined table
   * Create CSV of joined data to read into Pandas
 
-[## Visualizations](https://edwinmccracken.github.io/etl_project/)
+## Visualizations
+[Click Here for link to Visualizations](https://edwinmccracken.github.io/etl_project/)
 * Read in joined_data.csv and use Matplotlib to create line charts with multiple lines
   * Compare driving directions requests in US and Italy
   * Compare transit directions requests in US and Italy

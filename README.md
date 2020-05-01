@@ -11,21 +11,19 @@ We will be performing ETL functions (Extract, Transform, Load) on data related t
 
 Project Proposal
 
-[URL: ](https://docs.google.com/document/d/1nB_Uuv6i-0Zj-f2z4CwXNlWPXoprAOe-gS0MT4PgE2A/edit?usp=sharing)
+[Click here for proposal link](https://docs.google.com/document/d/1nB_Uuv6i-0Zj-f2z4CwXNlWPXoprAOe-gS0MT4PgE2A/edit?usp=sharing)
 
 ## Extract
 * 2 CSVs downloaded from the following websites
   * virus.csv
-    * University of Washington - Humanistic GIS Laboratory
-    * https://hgis.uw.edu/virus/
+    * [University of Washington - Humanistic GIS Laboratory](https://hgis.uw.edu/virus/)
     * Includes the following COVID-19 data by date per country/region:
       * Confirmed cases
       * Suspected cases
       * Cured cases
       * Death cases
   * applemobilitytrends-2020-04-27.csv
-    * Apple Maps - Mobility Trends Reports
-    * https://www.apple.com/covid19/mobility
+    * [Apple Maps - Mobility Trends Reports](https://www.apple.com/covid19/mobility)
     * The CSV file shows a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020 (baseline volume = 100).
       * Driving directions requests
       * Transit directions requests
@@ -55,7 +53,7 @@ Project Proposal
   * Create joined_data.sql file of joined table
   * Create CSV of joined data to read into Pandas
 
-## Visualizations
+[## Visualizations](https://edwinmccracken.github.io/etl_project/)
 * Read in joined_data.csv and use Matplotlib to create line charts with multiple lines
   * Compare driving directions requests in US and Italy
   * Compare transit directions requests in US and Italy
@@ -64,4 +62,4 @@ Project Proposal
   * Compare confirmed cases in US and Italy
   * Compare cured cases in US and Italy
 * Create Github Pages webpage displaying all visualizations
-  * https://edwinmccracken.github.io/etl_project/
+  * [https://edwinmccracken.github.io/etl_project/](https://edwinmccracken.github.io/etl_project/)

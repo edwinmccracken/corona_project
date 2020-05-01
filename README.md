@@ -10,7 +10,8 @@
 We will be performing ETL functions (Extract, Transform, Load) on data related to the impact of the coronavirus spread on the use of Apple maps in the United States and Italy from February to late April 2020. 
 
 Project Proposal
-URL: (https://docs.google.com/document/d/1nB_Uuv6i-0Zj-f2z4CwXNlWPXoprAOe-gS0MT4PgE2A/edit?usp=sharing)
+
+[URL: ](https://docs.google.com/document/d/1nB_Uuv6i-0Zj-f2z4CwXNlWPXoprAOe-gS0MT4PgE2A/edit?usp=sharing)
 
 ## Extract
 * 2 CSVs downloaded from the following websites
